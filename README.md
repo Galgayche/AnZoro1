@@ -7,7 +7,6 @@
 ***
 
 * #### Игровой клуб, в веб-приложении игрового клуба вы можете из дому выбрать игровое место, игровую платформу (ПК или PS) и забронировать определенное время.
-
 * [client-code](https://github.com/AnZoro1/game-club-frontend)
 * [backend-code](https://github.com/AnZoro1/game-club-backend)
 
